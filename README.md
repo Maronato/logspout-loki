@@ -10,7 +10,7 @@ Don't trust me? Neither do I!
 2. Use it: `docker pull <docker-username>/logspout-loki:3.2.11`
 
 ## Prebuilt version
-You can also pull from `maronato/logspout-loki`.
+You can also pull from [`maronato/logspout-loki`](https://hub.docker.com/r/maronato/logspout-loki).
 
 Built by Docker-Desktop on MacOS 11.4 using:
 ```bash
